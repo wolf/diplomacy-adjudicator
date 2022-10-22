@@ -1,0 +1,9 @@
+.idea/
+.python-version
+.DS_Store
+.*.sw?
+tags
+*.egg-info/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
